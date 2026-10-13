@@ -8,7 +8,6 @@ Este es un microservicio web ligero desarrollado en **Python** utilizando el fra
 - [Características Principales](#-características-principales)
 - [Tecnologías Utilizadas](#%EF%B8%8F-tecnologías-utilizadas)
 - [Estructura del Proyecto](#%EF%B8%8F-estructura-del-proyecto)
-- [Endpoints de la API](#-endpoints-de-la-api)
 - [Requisitos Previos](#-requisitos-previos)
 - [Instalación y Despliegue](#%EF%B8%8F-instalación-y-despliegue)
 
